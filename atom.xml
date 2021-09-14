@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://abouthim.me/"/>
-  <updated>2021-09-11T20:02:33.593Z</updated>
+  <updated>2021-09-14T21:09:38.124Z</updated>
   <id>http://abouthim.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://abouthim.me/2021/09/10/best-teacher/"/>
     <id>http://abouthim.me/2021/09/10/best-teacher/</id>
     <published>2021-09-10T15:05:11.000Z</published>
-    <updated>2021-09-11T20:02:33.593Z</updated>
+    <updated>2021-09-14T21:09:38.124Z</updated>
     
     <summary type="html">
     
@@ -170,9 +170,9 @@
       <category term="天路历程 · 与祂同行" scheme="http://abouthim.me/categories/%E5%A4%A9%E8%B7%AF%E5%8E%86%E7%A8%8B-%C2%B7-%E4%B8%8E%E7%A5%82%E5%90%8C%E8%A1%8C/"/>
     
     
-      <category term="随笔" scheme="http://abouthim.me/tags/%E9%9A%8F%E7%AC%94/"/>
-    
       <category term="人物传记" scheme="http://abouthim.me/tags/%E4%BA%BA%E7%89%A9%E4%BC%A0%E8%AE%B0/"/>
+    
+      <category term="随笔" scheme="http://abouthim.me/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
@@ -461,7 +461,7 @@
     <link href="http://abouthim.me/2020/07/31/unconditional-trust/"/>
     <id>http://abouthim.me/2020/07/31/unconditional-trust/</id>
     <published>2020-07-31T15:26:44.000Z</published>
-    <updated>2020-07-31T08:41:07.398Z</updated>
+    <updated>2021-09-14T21:14:38.642Z</updated>
     
     <summary type="html">
     
@@ -474,8 +474,6 @@
       <category term="睡前故事 · 脑洞番外" scheme="http://abouthim.me/categories/%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B-%C2%B7-%E8%84%91%E6%B4%9E%E7%95%AA%E5%A4%96/"/>
     
     
-      <category term="第三视角" scheme="http://abouthim.me/tags/%E7%AC%AC%E4%B8%89%E8%A7%86%E8%A7%92/"/>
-    
       <category term="故事" scheme="http://abouthim.me/tags/%E6%95%85%E4%BA%8B/"/>
     
   </entry>
@@ -485,7 +483,7 @@
     <link href="http://abouthim.me/2020/07/30/on-the-ark/"/>
     <id>http://abouthim.me/2020/07/30/on-the-ark/</id>
     <published>2020-07-30T15:26:44.000Z</published>
-    <updated>2020-07-31T08:40:59.645Z</updated>
+    <updated>2021-09-14T21:12:42.246Z</updated>
     
     <summary type="html">
     
@@ -497,8 +495,6 @@
     
       <category term="睡前故事 · 脑洞番外" scheme="http://abouthim.me/categories/%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B-%C2%B7-%E8%84%91%E6%B4%9E%E7%95%AA%E5%A4%96/"/>
     
-    
-      <category term="第三视角" scheme="http://abouthim.me/tags/%E7%AC%AC%E4%B8%89%E8%A7%86%E8%A7%92/"/>
     
       <category term="故事" scheme="http://abouthim.me/tags/%E6%95%85%E4%BA%8B/"/>
     
